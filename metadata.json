@@ -1,0 +1,6 @@
+{
+  "name": "Не Оборачивайся - Хоррор 3D",
+  "description": "Атмосферный 3D-хоррор с авторизацией через социальные сети, кооперативом и главами выживания.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
